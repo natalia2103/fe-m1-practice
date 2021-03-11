@@ -1,0 +1,59 @@
+body {
+  font-family: verdana;
+  background-color: #6d8241;
+}
+h1 {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  color: #ffffff;
+  font-family: helvetica;
+}
+.column1 {
+  float: left;
+  width: 400px;
+  margin: 20px;
+}
+
+.column2 .column3 {
+  display: flex;
+  justify-content: flex-end;
+  width: 400px;
+  margin: 20px;
+  padding: 40px;
+}
+
+.firstImage {
+  width: 400px;
+  height: 250px;
+}
+
+.secondImage {
+  width: 400px;
+  height: 250px;
+}
+
+.thirdImage {
+  width: 400px;
+  height: 250px;
+}
+
+.fourthImage {
+  width: 400px;
+  height: 250px;
+}
+
+.fifthImage {
+  width: 400px;
+  height: 250px;
+}
+
+.sixthImage {
+  width: 400px;
+  height: 250px;
+}
